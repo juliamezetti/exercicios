@@ -1,8 +1,8 @@
 public class Main{
 
     public static void main(String args[]){
-        Ashen ashen1 = new Ashen();
-        Ashen ashen2 = new Ashen();
+        Motor ashen1 = new Motor();
+        Motor ashen2 = new Motor();
 
         ashen1.vida = 90;
         ashen2.vida = 85;
